@@ -14,7 +14,7 @@ If you are looking for a clean starting point for coding along as you follow the
 
 For running this project we need and npm installed on our machine. These are some tutorials to install node in different operating systems: 
 
-*Its important to install the latest version of Node*
+*It's important to install the latest version of Node*
 
 - [Install Node and NPM on Windows](https://www.youtube.com/watch?v=8ODS6RM6x7g)
 - [Install Node and NPM on Linux](https://www.youtube.com/watch?v=yUdHk-Dk_BY)
